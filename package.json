@@ -1,0 +1,1 @@
+{"name":"nonprofit-statement-pdf","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","run":"tsx src/run_statement.ts","test":"tsx test/statement.test.ts"},"dependencies":{"zod":"^3.23.8"},"devDependencies":{"@types/node":"^22.10.0","tsx":"^4.19.0","typescript":"^5.6.3"}}
